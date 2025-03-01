@@ -1,0 +1,56 @@
+{
+  "bot-account": {
+    "username": "Herobrine", 
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "7Q7T.aternos.me", 
+    "port": 58505,   
+    "version": "1.12.1"   
+  },
+  
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,  
+      "password": ""  
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 10,
+      "messages": [
+        "i need diamonds",
+        "pls dont kill me :(",
+        "/w Q4ft to online :D",
+        "i am a real person",
+        "ty for playing :D"
+      ]
+    },
+
+    "login-message": {
+      "enabled": true,
+      "messages": [
+        "/login 180102jo1234"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 300
+  }
+}

@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "emerald.magmanode.com"
+    "ip": "emerald.magmanode.com",
     "port": 34673,   
     "version": "1.12.1"   
   },
